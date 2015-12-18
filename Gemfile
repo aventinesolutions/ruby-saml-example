@@ -1,11 +1,11 @@
-source 'https://rubygems.org'
+source 'http://172.31.33.237:9292/'
 
-gem 'ruby-saml', '~> 1.0.0'
+gem 'ruby-saml', '~> 1'
 
 gem 'byebug'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.5'
+gem 'rails', '4.2.5'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
